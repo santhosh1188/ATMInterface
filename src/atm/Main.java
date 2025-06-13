@@ -3,13 +3,13 @@ package atm;
 	public class Main {
 	    public static void main(String[] args) {
 	        // Create a User with PIN 1234
-	        User user = new User(1234);
+	        //User user = new User(1234);
 
 	        // Create the ATM object using the user
-	        ATM atm = new ATM(user);
+	        ATM atm = new ATM();
 
 	        // Start the ATM session
-	        atm.start();
+	      atm.start();
 	    }
 	}
 

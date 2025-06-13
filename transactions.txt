@@ -1,0 +1,6 @@
+[2025-06-06 10:51:51] Checked balance: ₹1000.0
+[2025-06-06 10:55:50] Checked balance: ₹1000.0
+[2025-06-06 10:56:10] Deposited ₹1000.0 | New balance: ₹2000.0
+[2025-06-06 10:56:17] Withdrew ₹500.0 | New balance: ₹1500.0
+[2025-06-06 10:56:19] Checked balance: ₹1500.0
+[2025-06-06 11:01:48] Checked balance: ₹1500.0
